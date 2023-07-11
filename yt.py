@@ -426,7 +426,7 @@ class Main:
 			os.system("xdg-open https://www.youtube.com/@a2rturmuxcommunity")
 			print("")
 			time.sleep(2.0)
-			print("\033[1;33m    Apna nam type kro")
+			print("\033[1;33m    Your Name")
 			print("")
 			input("\n\033[1;32m  Type Name ==> \033[1;36m")
 			time.sleep(2.1)
